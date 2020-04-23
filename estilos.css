@@ -27,7 +27,7 @@ h1{
 }
 
 .seccion2{
-    height: 700px;
+    height: 800px;
     background-color: khaki;
 }
 
@@ -44,10 +44,15 @@ h1{
     justify-content: space-around;
 }
 
-.col-6, .separador1{
+.col-xl-6, .separador1{
     background-color: lightcoral;
     border: brown   solid 2px;
    
+}
+
+.col-md-12{
+    background-color: lightcoral;
+    border: brown   solid 2px;
 }
 
 footer{
