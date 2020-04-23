@@ -17,6 +17,15 @@ h1{
     text-align: justify;
 }
 
+.seccion1{
+    background-color: rgba(233, 227, 227, 0.966);
+}
+
+.seccion2{
+    height: 500px;
+    background-color: khaki;
+}
+
 .enlaces1{
     margin-left: 50px;
     margin-right: 50px;
